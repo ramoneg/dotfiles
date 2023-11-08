@@ -19,6 +19,7 @@ brew 'meilisearch'
 brew 'mysql'
 brew 'node'
 brew 'yarn'
+brew 'mailpit'
 
 # Apps
 cask 'figma'
