@@ -20,6 +20,7 @@ brew 'mysql'
 brew 'node'
 brew 'yarn'
 brew 'mailpit'
+brew 'php-cs-fixer'
 
 # Apps
 cask 'figma'

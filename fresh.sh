@@ -35,3 +35,8 @@ mkdir $HOME/Herd
 
 # Clone Github repositories
 ./clone.sh
+
+# Install Oh My Zsh Theme
+mkdir -P $HOME/.oh-my-zsh/themes
+cp $HOME/.dotfiles/zsh-theme/dracula/dracula.zsh-theme $HOME/.oh-my-zsh/themes
+cp -R $HOME/.dotfiles/zsh-theme/dracula/lib $HOME/.oh-my-zsh/themes
