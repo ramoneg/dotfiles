@@ -26,6 +26,8 @@ brew 'php-cs-fixer'
 brew 'htop'
 brew 'nmap'
 brew 'awscli'
+brew 'wget'
+brew 'gnu-sed'
 
 # Apps
 cask 'figma'
