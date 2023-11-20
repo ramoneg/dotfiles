@@ -21,7 +21,11 @@ brew 'node'
 brew 'yarn'
 brew 'mailpit'
 brew 'php-cs-fixer'
+
+# SysOps
 brew 'htop'
+brew 'nmap'
+brew 'awscli'
 
 # Apps
 cask 'figma'
