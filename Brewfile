@@ -21,6 +21,7 @@ brew 'node'
 brew 'yarn'
 brew 'mailpit'
 brew 'php-cs-fixer'
+brew 'postman'
 
 # SysOps
 brew 'htop'
@@ -43,6 +44,7 @@ cask 'whatsapp'
 cask 'macpass'
 cask 'logitech-options'
 cask 'iterm2'
+cask 'microsoft-teams'
 
 # Fonts
 cask 'font-lato'
