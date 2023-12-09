@@ -29,6 +29,7 @@ brew 'nmap'
 brew 'awscli'
 brew 'wget'
 brew 'gnu-sed'
+brew 'nikto'
 
 # Apps
 cask 'figma'
@@ -45,6 +46,7 @@ cask 'macpass'
 cask 'logitech-options'
 cask 'iterm2'
 cask 'microsoft-teams'
+cask 'cmake'
 
 # Fonts
 cask 'font-lato'
