@@ -22,6 +22,7 @@ brew 'yarn'
 brew 'mailpit'
 brew 'php-cs-fixer'
 brew 'postman'
+brew 'cocoapods'
 
 # SysOps
 brew 'htop'
