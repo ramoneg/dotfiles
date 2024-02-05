@@ -23,6 +23,7 @@ brew 'mailpit'
 brew 'php-cs-fixer'
 brew 'postman'
 brew 'cocoapods'
+brew 'minio'
 
 # SysOps
 brew 'htop'
