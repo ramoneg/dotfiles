@@ -49,6 +49,7 @@ cask 'logitech-options'
 cask 'iterm2'
 cask 'microsoft-teams'
 cask 'cmake'
+cask 'yed'
 
 # Fonts
 cask 'font-lato'
