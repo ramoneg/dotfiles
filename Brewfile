@@ -24,6 +24,7 @@ brew 'php-cs-fixer'
 brew 'postman'
 brew 'cocoapods'
 brew 'minio'
+brew 'python'
 
 # SysOps
 brew 'htop'
